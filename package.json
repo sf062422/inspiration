@@ -1,0 +1,28 @@
+{
+  "name": "shanersegarram",
+  "version": "1.0.0",
+  
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanersegarram/inspiration.git"
+  },
+  "license": "ISC", 
+  "main": "index.js", 
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"rudrakamillaq474": "^1.0.0",
+	"rudrakamillaq474-one": "^1.0.0",
+  	"layidp": "^1.0.0",
+	"layidp-one": "^1.0.0",
+  	"guzibiji": "^1.0.0"
+  },
+  "devDependencies": {
+    
+  }
+
+}
